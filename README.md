@@ -7,7 +7,7 @@ Install the npm packages
 
 ```
 npm install
-``
+```
 
 Run the tests
 
